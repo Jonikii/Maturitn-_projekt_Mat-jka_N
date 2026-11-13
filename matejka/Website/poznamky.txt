@@ -1,0 +1,5 @@
+Upravit script rozkliknuti hracu v tabulce, mby jen highscore? pouzit jinou techonlogii
+Upravit vizualni stranku webu
+uprava biglinku - zatim neni
+nechat v style.css ve spod podporu malych zarizeni?
+leaderboard.css komentare

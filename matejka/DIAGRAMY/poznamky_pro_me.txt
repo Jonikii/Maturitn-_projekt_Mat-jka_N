@@ -1,0 +1,3 @@
+jestli jsou spravne ty klice a spravne pouzity bloky a vztahy (visjak stary soubory jupi)
+jeste urcite jestli je sprave ten vztah toho highscore
+upravit diagramy, aby sedeli se .SQL v DATABAZE
